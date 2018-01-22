@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Michel Gomes - JMallone
+title:            Michel Gomes
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Computer Science student at the Federal Technological University of Paraná..'
 url:              http://jmallone.github.io
 baseurl:          /
 
