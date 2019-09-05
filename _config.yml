@@ -22,6 +22,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/Jmallone/jmallone.github.io
+  repo:           http://jmallone.github.io
 
 theme: jekyll-theme-minimal
